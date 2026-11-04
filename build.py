@@ -17,8 +17,8 @@ from urllib.parse import quote
 RAIZ = Path(__file__).parent
 DOMINIO = "https://ricardoagronegocio.vercel.app"
 INDEXAR = False                  # True depois da aprovação e do domínio oficial
-WHATSAPP = "5561993973723"       # PROVISÓRIO: número da Karla (Plancenter) até o Ricardo passar o comercial
-TEL_VER = "+55 61 99397-3723"
+WHATSAPP = "5581989853030"       # comercial do Ricardo (04/11)
+TEL_VER = "+55 81 98985-3030"
 CSS, JS = RAIZ / "assets/css/site.css", RAIZ / "assets/js/site.js"
 GEO = (-8.0727405, -34.9458817)  # Ceasa-PE (OpenStreetMap)
 ENDERECO = "BR-101 Sul, km 70, Curado, Recife, PE"

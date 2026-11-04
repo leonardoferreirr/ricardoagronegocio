@@ -17,7 +17,6 @@ Estático, sem dependências: `python3 build.py` gera as páginas na raiz.
 - Mapa: OpenStreetMap (`tools/osm-ceasa.json`, `tools/mapa_osm.py`).
 
 ## Pendências com o cliente
-- **WhatsApp comercial do Ricardo.** Hoje está o da Karla (`WHATSAPP` no `build.py`), só para a prévia.
 - **Box e horário na CEASA.** O site pede para confirmar pelo WhatsApp antes de ir.
 - A estrutura fala em "presença comercial planejada" na CEASA, mas o áudio cita a loja que ele já tem lá. Confirmar e ajustar o texto da empresa.
 - **Fotos reais dos produtos.** O briefing pede foto real; as atuais são ilustrativas e o site diz isso.
