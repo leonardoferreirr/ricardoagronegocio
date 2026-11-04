@@ -20,6 +20,25 @@
   });
   d.querySelectorAll('.nav a').forEach(a => a.addEventListener('click', () => h.classList.remove('menu-open')));
 
+  /* vídeo de drone do topo: só no computador, sem economia de dados e sem movimento reduzido.
+     Carrega depois da página pronta (a foto continua sendo o maior desenho) e pausa fora da tela. */
+  const video = d.querySelector('.capa__video');
+  const economia = navigator.connection && (navigator.connection.saveData || /2g/.test(navigator.connection.effectiveType || ''));
+  if (video && !rm && !economia && largo.matches) {
+    const ligar = () => {
+      video.querySelectorAll('source[data-src]').forEach(s => { s.src = s.dataset.src; });
+      video.load();
+      video.addEventListener('playing', () => video.classList.add('on'), { once: true });
+      const tocar = () => { const p = video.play(); if (p && p.catch) p.catch(() => {}); };
+      tocar();
+      if ('IntersectionObserver' in w) {
+        new IntersectionObserver(es => es.forEach(en => { en.isIntersecting ? tocar() : video.pause(); })).observe(video.closest('.capa') || video);
+      }
+    };
+    const depois = () => ('requestIdleCallback' in w ? w.requestIdleCallback(ligar, { timeout: 2500 }) : setTimeout(ligar, 1200));
+    d.readyState === 'complete' ? depois() : w.addEventListener('load', depois, { once: true });
+  }
+
   /* revelações (com reserva: nada fica invisível) */
   const alvos = [...d.querySelectorAll('.rv')];
   if ('IntersectionObserver' in w) {
@@ -60,7 +79,8 @@
   const pEtapas = perc ? [...perc.querySelectorAll('.perc__etapa')] : [];
   const pMarcos = perc ? [...perc.querySelectorAll('[data-marco]')] : [];
   const pTrilha = perc && perc.querySelector('.perc__trilha');
-  const fundo = d.querySelector('[data-paralaxe] img');
+  const fundos = [...d.querySelectorAll('[data-paralaxe] img, [data-paralaxe] video')];
+  const fundo = fundos[0];
   const lim = v => Math.min(1, Math.max(0, v));
   let etapaAtual = 0;
 
@@ -81,7 +101,7 @@
     }
     if (fundo && !rm && largo.matches) {
       const y = w.scrollY;
-      if (y < innerHeight * 1.2) fundo.style.transform = `scale(1.06) translate3d(0,${(y * 0.18).toFixed(1)}px,0)`;
+      if (y < innerHeight * 1.2) fundos.forEach(f => { f.style.transform = `scale(1.06) translate3d(0,${(y * 0.18).toFixed(1)}px,0)`; });
     }
   };
   let pendente = false;

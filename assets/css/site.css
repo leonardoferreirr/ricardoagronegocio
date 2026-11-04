@@ -63,6 +63,8 @@ h3{font-weight:400;font-size:1.15rem;line-height:1.3;letter-spacing:-.01em}
 .capa{position:relative;min-height:100svh;display:flex;align-items:flex-end;overflow:hidden;isolation:isolate}
 .capa__bg{position:absolute;inset:0;z-index:-1}
 .capa__bg img{width:100%;height:100%;object-fit:cover;object-position:60% 50%;transform:scale(1.06)}
+.capa__video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:60% 50%;transform:scale(1.06);opacity:0;transition:opacity 1.4s ease}
+.capa__video.on{opacity:1}
 .capa__bg::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(7,22,13,.88) 0%,rgba(7,22,13,.6) 38%,rgba(7,22,13,.08) 72%),linear-gradient(0deg,var(--bg) 0%,rgba(7,22,13,0) 36%)}
 .capa__txt{max-width:58rem;padding-block:9rem clamp(4rem,11vh,6.5rem)}
 .capa h1{font-size:var(--t-hero);line-height:.98}
@@ -454,6 +456,7 @@ h3{font-weight:400;font-size:1.15rem;line-height:1.3;letter-spacing:-.01em}
   .menu-open .nav{inset:4.6rem 0 auto 0}
   .capa{align-items:flex-start;text-align:center}
   .capa__bg img{object-position:50% 70%}
+  .capa__video{display:none}
   .capa__bg::after{background:linear-gradient(180deg,rgba(7,22,13,.82) 0%,rgba(7,22,13,.55) 40%,rgba(7,22,13,.05) 66%,rgba(7,22,13,.2) 84%,var(--bg) 100%)}
   .capa__txt{padding:7.4rem 0 clamp(15rem,58vw,20rem);margin-inline:auto}
   .capa p{margin-inline:auto}

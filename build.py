@@ -25,6 +25,12 @@ ENDERECO = "BR-101 Sul, km 70, Curado, Recife, PE"
 MAPS = "https://www.google.com/maps/search/?api=1&query=CEASA+Pernambuco+BR-101+Sul+km+70+Curado+Recife"
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
 
+# Voo de drone sobre a mesma plantação (Veo 3.1 no Google Flow, 04/11), em loop com fusão de 1,5 s.
+# Só no computador: o JS liga depois da página pronta; no celular fica a foto vertical.
+VIDEO_CAPA = ('<video class="capa__video" muted playsinline loop preload="none" disablepictureinpicture aria-hidden="true" tabindex="-1">'
+              '<source data-src="/assets/video/campo-drone-720-av1.mp4" type=\'video/mp4; codecs="av01.0.05M.08"\'>'
+              '<source data-src="/assets/video/campo-drone-720.mp4" type="video/mp4"></video>')
+
 # ------------------------------------------------------------------ ícones (traço fino, 24x24)
 I = {
     "folha": '<path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z"/><path d="M5 19l8-8"/>',
@@ -476,7 +482,7 @@ def home(lista, faq, mes):
                          [("manga", "Manga", "10 caixas"), ("tomate", "Tomate", "8 caixas"), ("alface", "Alface", "30 unidades"), ("macaxeira", "Macaxeira", "2 sacos")])
     corpo = f'''
 <section class="capa">
-  <div class="capa__bg" data-paralaxe>{foto("campo", "Plantação de hortaliças ao amanhecer no Nordeste", lazy=False, celular=("campo-m", (700, 1122)))}</div>
+  <div class="capa__bg" data-paralaxe>{foto("campo", "Plantação de hortaliças ao amanhecer no Nordeste", lazy=False, celular=("campo-m", (700, 1122)))}{VIDEO_CAPA}</div>
   <div class="wrap"><div class="capa__txt">
     <h1>Do campo<br>para o mundo.</h1>
     <p>{e(HERO_P)}</p>
