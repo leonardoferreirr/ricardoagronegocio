@@ -1,0 +1,34 @@
+[
+  {
+    "p": "Como peço uma cotação de frutas e verduras?",
+    "r": "Use o botão Solicitar cotação ou chame no WhatsApp e diga os produtos, a quantidade de cada um e a sua cidade. Se a compra for para empresa, informe também o volume e de quanto em quanto tempo pretende comprar. A resposta vem com a disponibilidade e o preço do dia."
+  },
+  {
+    "p": "A Ricardo Agronegócio vende no atacado e no varejo?",
+    "r": "Sim. Atendemos quem compra em volume, como mercados, restaurantes, hotéis, feirantes e distribuidores, e também quem compra em menor quantidade. As condições de cada pedido são combinadas na cotação."
+  },
+  {
+    "p": "Como funciona o pedido pelo catálogo?",
+    "r": "Você escolhe os produtos, indica a quantidade e a unidade de cada um, como caixa, saco, maço ou kg, e envia a lista pelo WhatsApp. Conferimos a disponibilidade e respondemos com preço e condições. O pedido só é fechado depois que você confirmar."
+  },
+  {
+    "p": "Onde fica a Ricardo Agronegócio?",
+    "r": "Na CEASA Pernambuco, na BR-101 Sul, km 70, bairro do Curado, em Recife. Antes de ir, chame no WhatsApp para saber como chegar até nós e o horário de atendimento."
+  },
+  {
+    "p": "Vocês fazem entrega?",
+    "r": "Entrega, regiões atendidas e condições são combinadas no atendimento, conforme o pedido e o endereço. Informe a cidade e o bairro na cotação para saber o que vale para o seu caso."
+  },
+  {
+    "p": "A Ricardo Agronegócio trabalha com importação e exportação?",
+    "r": "Atendemos consultas e pedidos de cotação de compradores e fornecedores de outros países, conforme a disponibilidade dos produtos e a documentação exigida em cada destino. Para começar, envie o produto, o volume, o país e a época de interesse. Com isso, respondemos o que é possível fazer e em quais condições."
+  },
+  {
+    "p": "Sou produtor. Como posso fornecer para a Ricardo Agronegócio?",
+    "r": "Chame no WhatsApp ou escreva pela página de contato contando o que você produz, onde fica a sua produção, o volume disponível e os meses de colheita. Se tiver alguma certificação, informe também. Com essas informações, avaliamos a parceria e retornamos para conversar sobre volumes e condições."
+  },
+  {
+    "p": "O que é época de safra e por que o preço muda?",
+    "r": "Safra é a época do ano em que um produto é colhido em maior quantidade. Com mais oferta, o preço tende a cair; fora da safra, o produto fica mais escasso e o preço sobe. Em cada produto do catálogo, você vê os meses de boa oferta segundo o calendário da CEASA Pernambuco."
+  }
+]

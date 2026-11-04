@@ -1,0 +1,451 @@
+--- p01.png
+===== p01.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+Sobre o site do Ricardo Agronegócios 20:03
+Hoje
+Estrutura completa do site oficial
+RICARDO AGRONEGÓCIO
+Do campo para o mercado. Do Brasil para o mundo.
+Início • Empresa • Produtos • Comércio Exterior
+DO CAMPO PARA O MUNDO.
+Conectando produtores, fornecedores, compradores e mercados por meio do
+agronegócio.
+Botões
+Solicitar cotação
+Conhecer a empresa
+Editada 20:04
+Mapa de navegação
+Início
+Apresentação, produtos em destaque, canais de atuação e chamadas
+comerciais.
+A Empresa
+História, liderança, propósito, valores, estrutura e compromisso com qualidade.
+Produtos
+Frutas, verduras, hortaliças e outras categorias efetivamente comercializadas.
+Loja on-line
+Catálogo, preços, pedidos, carrinho, pagamento e entrega, conforme a operação
+implementada.
+Atacado e Distribuição
+Fornecimento para mercados, restaurantes, hotéis, distribuidores e compradores
+empresariais.
+--- p02.png
+===== p02.png [1850x1375]
++55 61 9397-3723
+1g Adicionar à lista
+:
+Mapa de navegação
+Início
+Hoje
+Apresentação, produtos em destaque, canais de atuação e chamadas
+comerciais.
+A Empresa
+História, liderança, propósito, valores, estrutura e compromisso com qualidade.
+Produtos
+Frutas, verduras, hortaliças e outras categorias efetivamente comercializadas.
+Loja on-line
+Catálogo, preços, pedidos, carrinho, pagamento e entrega, conforme a operação
+implementada.
+Atacado e Distribuição
+Fornecimento para mercados, restaurantes, hotéis, distribuidores e compradores
+empresariais.
+Importação e Exportação
+Portfólio exportável, solicitações de cotação internacional e relacionamento com
+parceiros.
+Produção e Parcerias
+Relacionamento com produtores, origens de fornecimento e oportunidades de
+negócios.
+Onde estamos
+CEASA Pernambuco, endereço confirmado, horário e canais de atendimento.
+Contato e Cotações
+Formulários para compradores, fornecedores, importadores e exportadores.
+20:08
+Conteúdo de cada página
+Página inicial
+A página inicial precisa apresentar a empresa em poucos segundos e conduzir o
+visitante ao canal certo.
+Ordem recomendada:
+Banner princial: DO CAMPO PARA O MUNDO.
+Botões "Solicitar cotacão" e "Conhecer nossos produtos"
+--- p03.png
+===== p03.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+Conteúdo de cada página
+Hoje
+Página inicial
+A página inicial precisa apresentar a empresa em poucos segundos e conduzir o
+visitante ao canal certo.
+Ordem recomendada:
+Banner princial: DO CAMPO PARA O MUNDO.
+Botões "Solicitar cotação" e "Conhecer nossos produtos".
+Categorias de produtos comercializados.
+Atacado, varejo e distribuição.
+E-commerce e atendimento digital.
+Comércio exterior: importação e exportação.
+Qualidade, procedência e relacionamento com fornecedores.
+Apresentação institucional de Ricardo Romão.
+Localização da operação na CEASA Pernambuco.
+Contato comercial e rodapé institucional.
+20:10
+Página
+V
+A EMPRESA
+RICARDO AGRONEGÓCIO
+Do campo para o mercado. Do Brasil para o mundo.
+A Ricardo Agronegócio nasce com a proposta de conectar a produção agrícola às
+oportunidades do mercado, integrando comercialização, distribuição e canais
+digitais, com visão de expansão para o comércio internacional.
+Com presença comercial planejada na CEASA Pernambuco e atuação voltada a
+diferentes perfis de compradores, a empresa busca desenvolver relações de
+confiança entre produtores, fornecedores, clientes empresariais e parceiros
+comerciais.
+--- p04.png
+===== p04.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+Página
+Hoje
+A EMPRESA
+RICARDO AGRONEGÓCIO
+Do campo para o mercado. Do Brasil para o mundo.
+A Ricardo Agronegócio nasce com a proposta de conectar a produção agrícola às
+oportunidades do mercado, integrando comercialização, distribuição e canais
+digitais, com visão de expansão para o comércio internacional.
+Com presença comercial planejada na CEASA Pernambuco e atuação voltada a
+diferentes perfis de compradores, a empresa busca desenvolver relações de
+confiança entre produtores, fornecedores, clientes empresariais e parceiros
+comerciais.
+Nossa visão é construir uma operação de agronegócio preparada para atender o
+mercado nacional e desenvolver oportunidades de negócios internacionais, de
+acordo com as capacidades operacionais, os produtos comercializados e as
+exigências aplicáveis a cada mercado.
+Nosso compromisso: qualidade, transparência, responsabilidade comercial e
+construção de relações duradouras.
+RICARDO AGRONEGÓCIO — Do campo para o mundo.
+20:11
+Página "Produtos"
+Organizar o catálogo em categorias:
+Frutas frescas.
+Verduras e folhosas.
+Legumes e hortaliças.
+Raízes e tubérculos.
+--- p05.png
+===== p05.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+RICARDO AGRONEGOCIO - Do campo para o mundo.
+20:11
+Hoje
+Página "Produtos"
+Organizar o catálogo em categorias:
+Frutas frescas.
+Verduras e folhosas.
+Legumes e hortaliças.
+Raízes e tubérculos.
+Produtos agrícolas complementares.
+Produtos processados, quando houver.
+Categorias destinadas à importação ou exportação, conforme o portfólio
+efetivo.
+Cada produto deverá conter foto real, nome, unidade comercial, origem quando
+comprovada, disponibilidade, condições de conservação e botão para cotação ou
+compra.
+20:13
+Página "Atacado e Distribuição"
+A página deve captar compradores profissionais.
+Chamada principal:
+SEU NEGÓCIO PRECISA DE UM BOM FORNECEDOR?
+Texto:
+"Entre em contato com a Ricardo Agronegócio para consultar disponibilidade,
+volumes, condições comerciais e possibilidades de fornecimento."
+Botão: SOLICITAR COTAÇÃO PARA MINHA EMPRESA
+O formulário deve perguntar empresa, CNPJ quando aplicável, cidade/UF,
+produtos de interesse, volume estimado e frequência de compra.
+20:13
+Página "Importação e Exportação"
+Chamada:
+NEGÓCIOS QUE CONECTAM MERCADOS.
+--- p06.png
+===== p06.png [1850x1375]
++55 61 9397-3723
+19 Adicionar à lista
+:
+Botão: SOLICITAR COTAÇÃO PARA MINHA EMPRESA
+Hoje
+O formulário deve perguntar empresa, CNPJ quando aplicávei, uuade/UF,
+produtos de interesse, volume estimado e frequência de compra.
+20:13
+Página "Importação e Exportação"
+Chamada:
+NEGÓCIOS QUE CONECTAM MERCADOS.
+Conteúdo:
+Categorias de produtos de interesse.
+Compra e venda internacional.
+Solicitação de propostas comerciais.
+Negociação com fornecedores e compradores.
+Informações sobre origem, especificações e documentação aplicável.
+Canal de contato para negócios internacionais.
+Versão em inglês e, futuramente, em espanhol.
+Importante: a página pode ser criada desde o início, mas os produtos anunciados
+para exportação deverão ser aqueles que a empresa consiga fornecer e
+documentar conforme os requisitos do destino.
+20:15
+Página "Contato e Cotações"
+O visitante selecionará o assunto:
+Compra na CEASA.
+Compra no atacado.
+Compra pelo e-commerce.
+Fornecimento de nrodutos
+--- p07.png
+===== p07.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+LU. IU
+Página "Contato e Cotações"
+Hoje
+O visitante selecionará o assunto:
+Compra na CEASA.
+Compra no atacado.
+Compra pelo e-commerce.
+Fornecimento de produtos.
+Importação.
+Exportação.
+Parcerias comerciais.
+Cada solicitação deverá chegar ao setor responsável, mesmo que, na primeira
+fase, uma única equipe centralize o atendimento.
+20:16
+E-commerce: como as vendas funcionarão
+Recomendo construir o site em WordPress com WooCommerce, permitindo
+começar com um catálogo comercial e evoluir para uma loja on-line completa.
+Recurso
+Catálogo digital
+Função
+Apresentar produtos, fotos e unidades de venda
+Recurso
+Preços e disponibilidade
+Função
+Atualizar conforme estoque e mercado
+Recurso
+Carrinho e checkout
+Função
+Finalizar compras quando habilitado
+Recurso
+Cotacão para atacado
+--- p08.png
+===== p08.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+Recurso
+Hoje
+Preços e disponibilidade
+Função
+Atualizar conforme estoque e mercado
+Recurso
+Carrinho e checkout
+Função
+Finalizar compras quando habilitado
+Recurso
+Cotação para atacado
+Função
+Receber pedidos de grandes volumes
+Recurso
+WhatsApp comercial
+Função
+Tirar dúvidas e atender clientes
+Recurso
+Frete e entrega
+Função
+Definir regiões, custos e condições
+Recurso
+Área de pedidos
+Função
+Consultar compras e andamento
+Recurso
+Catálogo internacional
+Função
+Apresentar produtos a compradores estrangeiros
+Minha recomendação: iniciar com um catálogo que permita solicitar cotações e,
+em seguida, ativar o checkout nas regiões em que a logística estiver organizada.
+--- p09.png
+===== p09.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+em seguida, ativar o checkout nas regioes em que a logistica estiver organizada.
+Frutas e verduras exigem controle de estoque, perecibilidad Hoje dicionamento
+e entrega; não convém prometer entrega nacional antes de definir essas
+condições.
+O e-commerce deverá usar o domínio oficial da empresa, a ser confirmado e
+registrado.
+20:23
+POSICIONAMENTO ESTRATÉGICO
+A Ricardo Agronegócio deverá ser posicionada como:
+UMA TRADING DE NEGÓCIOS DO AGRONEGÓCIO, COM ATUAÇÃO INTEGRADA
+NA COMERCIALIZAÇÃO, DISTRIBUIÇÃO, ABASTECIMENTO E CONEXÃO ENTRE
+MERCADOS.
+O posicionamento deverá contemplar cinco dimensões:
+Comercialização de produtos agrícolas.
+Distribuição e abastecimento de mercados.
+Desenvolvimento de fornecedores e parcerias produtivas.
+Comércio eletrônico e negócios digitais.
+Importação, exportação e conexões comerciais internacionais.
+20:29
+VISÃO INSTITUCIONAL
+Nossa visão
+Ser uma empresa de referência no agronegócio brasileiro, reconhecida pela
+excelência comercial, capacidade de conectar produtores e mercados,
+desenvolvimento de soluções de abastecimento e construção de oportunidades
+de negócios nacionais e internacionais.
+Almejamos construir uma organização sólida, inovadora e sustentável, com
+presença estratégica na cadeia de valor do agronegócio, ampliando nossa
+atuação do mercado regional para o nacional e internacional.
+Nossa visão é participar ativamente do desenvolvimento do agronegócio,
+contribuindo para aproximar a produção agrícola dos mercados consumidores e
+conectar o potencial produtivo brasileiro às oportunidades do mundo.
+Editada 20:30
+--- p10.png
+===== p10.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+Nossa missão
+Conectar a produção agrícola aos mercados consumidores, desenvolvendo
+soluções comerciais eficientes e confiáveis por meio da comercialização,
+distribuição, abastecimento e integração de negócios nacionais e internacionais.
+Trabalhamos para aproximar produtores, fornecedores, compradores e parceiros
+estratégicos, valorizando a origem dos produtos, promovendo relações
+comerciais transparentes e contribuindo para o desenvolvimento da cadeia
+produtiva do agronegócio.
+Buscamos transformar oportunidades em negócios sustentáveis, oferecendo
+soluções que agreguem valor aos produtos, fortaleçam os relacionamentos
+comerciais e ampliem o acesso aos mercados.
+20:33
+NOSSOS VALORES
+Os princípios que orientam nossas relações e negócios.
+Na Ricardo Agronegócio, acreditamos que o crescimento sustentável é
+construído sobre princípios sólidos. Nossos valores orientam nossas decisões,
+fortalecem nossas relações comerciais e direcionam nossa atuação em toda a
+cadeia do agronegócio.
+INTEGRIDADE
+Agimos com ética, honestidade e responsabilidade, conduzindo nossos negócios
+com respeito aos princípios legais e aos compromissos assumidos.
+TRANSPARÊNCIA
+Valorizamos a clareza nas informações, a honestidade nas negociações e a
+comunicação objetiva, construindo relações comerciais pautadas na confiança e
+na responsabilidade.
+COMPROMISSO COM A ORIGEM
+Reconhecemos o valor de quem produz. Valorizamos os produtores,
+fornecedores e todos os envolvidos na cadeia produtiva, respeitando a
+procedência, o cuidado e a qualidade dos produtos.
+CONFIANÇA
+--- p11.png
+===== p11.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+CONFIANÇA
+Hoje
+Construímos relacionamentos duradouros por meio da crediumuade, do
+cumprimento dos compromissos e da segurança em nossas relações
+comerciais.
+QUALIDADE
+Buscamos excelência em nossos produtos, serviços e processos, valorizando
+cada etapa, da origem à entrega ao mercado consumidor.
+INOVAÇÃO
+Acompanhamos as transformações do agronegócio e buscamos novas
+tecnologias, soluções e oportunidades para modernizar processos e ampliar
+nossa competitividade.
+EFICIÊNCIA
+Trabalhamos com planejamento, organização e responsabilidade para otimizar
+recursos, aprimorar processos e oferecer soluções comerciais eficientes.
+EMPREENDEDORISMO
+Identificamos oportunidades, desenvolvemos soluções e transformamos ideias
+em negócios por meio de iniciativa, planejamento e capacidade de realização.
+SUSTENTABILIDADE E RESPONSABILIDADE
+Valorizamos o uso consciente dos recursos naturais, a redução de desperdícios e
+práticas responsáveis que contribuam para o desenvolvimento sustentável do
+agronegócio.
+PARCERIA E COOPERAÇÃO
+Acreditamos na força das conexões. Desenvolvemos relações de cooperação
+com produtores, fornecedores, clientes, colaboradores e parceiros estratégicos,
+buscando crescimento mútuo.
+RESPEITO ÀS PESSOAS
+Reconhecemos o valor das pessoas que fazem parte da cadeia do agronegócio e
+cultivamos relações pautadas no respeito, na valorização humana e na
+responsabilidade.
+VISÃO GLOBAL
+Pensamos além das fronteiras. Acompanhamos as oportunidades e
+--- p12.png
+===== p12.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+cultivamos relações pautadas no respeito, na valorização humana e na
+responsabilidade.
+VISÃO GLOBAL
+Pensamos além das fronteiras. Acompanhamos as oportunidades e
+transformações dos mercados, buscando conectar o potencial do agronegócio
+brasileiro às possibilidades do comércio internacional.
+RICARDO AGRONEGÓCIO
+Nossos valores orientam a maneira como fazemos negócios, construímos
+parcerias e desenvolvemos oportunidades.
+DO CAMPO PARA O MERCADO. DO BRASIL PARA O MUNDO.
+20:42
+Se precisar de mais alguma informação você me fala 20:48
+PERFIL INSTITUCIONAL DA LIDERANÇA
+RICARDO ROMÃO
+CEO e responsável pela Ricardo Agronegócio
+Ricardo Romão está à frente do projeto empresarial Ricardo Agronegócio, uma
+iniciativa voltada ao desenvolvimento de negócios no setor do agronegócio, com
+perspectiva de atuação na comercialização, distribuição, abastecimento e
+conexão entre mercados.
+Sua proposta empresarial está fundamentada na construção de uma organização
+capaz de aproximar produtores, fornecedores e compradores, valorizando a
+qualidade dos produtos e desenvolvendo oportunidades comerciais.
+À frente da Ricardo Agronegócio, sua direção está voltada à consolidação de
+uma estrutura empresarial que integre a presença comercial na CEASA
+Pernambuco, os canais digitais, a expansão nacional e o desenvolvimento de
+negócios internacionais.
+Sua visão é contribuir para a construção de uma empresa sólida, com
+--- p13.png
+===== p13.png [1850x1375]
++55 61 9397-3723
+Adicionar à lista
+:
+TVUUV HIVIV VEVECTT VETUTUHU VUITU IULUIVU HINGU
+parcerias e desenvolvemos oportunidades.
+Hoje
+DO CAMPO PARA O MERCADO. DO BRASIL PARA O MUNDO
+20:42
+Se precisar de mais alguma informação você me fala
+20:43
+PERFIL INSTITUCIONAL DA LIDERANÇA
+RICARDO ROMÃO
+CEO e responsável pela Ricardo Agronegócio
+Ricardo Romão está à frente do projeto empresarial Ricardo Agronegócio, uma
+iniciativa voltada ao desenvolvimento de negócios no setor do agronegócio, com
+perspectiva de atuação na comercialização, distribuição, abastecimento e
+conexão entre mercados.
+Sua proposta empresarial está fundamentada na construção de uma organização
+capaz de aproximar produtores, fornecedores e compradores, valorizando a
+qualidade dos produtos e desenvolvendo oportunidades comerciais.
+À frente da Ricardo Agronegócio, sua direção está voltada à consolidação de
+uma estrutura empresarial que integre a presença comercial na CEASA
+Pernambuco, os canais digitais, a expansão nacional e o desenvolvimento de
+negócios internacionais.
+Sua visão é contribuir para a construção de uma empresa sólida, com
+capacidade de crescimento, relacionamento estratégico e participação nas
+oportunidades que movimentam o agronegócio brasileiro.
+A Ricardo Agronegócio representa esse propósito: conectar a origem dos
+produtos aos mercados, desenvolver parcerias e transformar oportunidades
+comerciais em negócios.
+RICARDO ROMÃO
+CEO da Ricardo Agronegócio.
+DO CAMPO PARA O MERCADO. DO BRASIL PARA O MUNDO.
+20:47
