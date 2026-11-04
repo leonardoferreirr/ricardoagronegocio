@@ -20,13 +20,14 @@
   });
   d.querySelectorAll('.nav a').forEach(a => a.addEventListener('click', () => h.classList.remove('menu-open')));
 
-  /* vídeo de drone do topo: só no computador, sem economia de dados e sem movimento reduzido.
+  /* vídeo de drone do topo: versão deitada no computador e em pé no celular; nada com economia de dados ou movimento reduzido.
      Carrega depois da página pronta (a foto continua sendo o maior desenho) e pausa fora da tela. */
   const video = d.querySelector('.capa__video');
   const economia = navigator.connection && (navigator.connection.saveData || /2g/.test(navigator.connection.effectiveType || ''));
-  if (video && !rm && !economia && largo.matches) {
+  if (video && !rm && !economia) {
     const ligar = () => {
-      video.querySelectorAll('source[data-src]').forEach(s => { s.src = s.dataset.src; });
+      const chave = largo.matches ? 'src' : 'srcM';
+      video.querySelectorAll('source[data-src]').forEach(s => { s.src = s.dataset[chave] || s.dataset.src; });
       video.load();
       video.addEventListener('playing', () => video.classList.add('on'), { once: true });
       const tocar = () => { const p = video.play(); if (p && p.catch) p.catch(() => {}); };

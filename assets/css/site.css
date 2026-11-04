@@ -456,7 +456,7 @@ h3{font-weight:400;font-size:1.15rem;line-height:1.3;letter-spacing:-.01em}
   .menu-open .nav{inset:4.6rem 0 auto 0}
   .capa{align-items:flex-start;text-align:center}
   .capa__bg img{object-position:50% 70%}
-  .capa__video{display:none}
+  .capa__video{object-position:50% 70%;transform:none}
   .capa__bg::after{background:linear-gradient(180deg,rgba(7,22,13,.82) 0%,rgba(7,22,13,.55) 40%,rgba(7,22,13,.05) 66%,rgba(7,22,13,.2) 84%,var(--bg) 100%)}
   .capa__txt{padding:7.4rem 0 clamp(15rem,58vw,20rem);margin-inline:auto}
   .capa p{margin-inline:auto}

@@ -26,10 +26,11 @@ MAPS = "https://www.google.com/maps/search/?api=1&query=CEASA+Pernambuco+BR-101+
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
 
 # Voo de drone sobre a mesma plantação (Veo 3.1 no Google Flow, 04/11), em loop com fusão de 1,5 s.
-# Só no computador: o JS liga depois da página pronta; no celular fica a foto vertical.
+# Duas versões: deitada (computador) e em pé (celular, gerada da foto vertical). O JS escolhe pela largura
+# e só liga depois da página pronta; a foto continua sendo o primeiro desenho.
 VIDEO_CAPA = ('<video class="capa__video" muted playsinline loop preload="none" disablepictureinpicture aria-hidden="true" tabindex="-1">'
-              '<source data-src="/assets/video/campo-drone-720-av1.mp4" type=\'video/mp4; codecs="av01.0.05M.08"\'>'
-              '<source data-src="/assets/video/campo-drone-720.mp4" type="video/mp4"></video>')
+              '<source data-src="/assets/video/campo-drone-720-av1.mp4" data-src-m="/assets/video/campo-drone-m-av1.mp4" type=\'video/mp4; codecs="av01.0.05M.08"\'>'
+              '<source data-src="/assets/video/campo-drone-720.mp4" data-src-m="/assets/video/campo-drone-m.mp4" type="video/mp4"></video>')
 
 # ------------------------------------------------------------------ ícones (traço fino, 24x24)
 I = {
