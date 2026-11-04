@@ -185,7 +185,8 @@
       const f = new FormData(form);
       if ((f.get('site') || '').toString().trim() || Date.now() - t0 < 2000) return;
       const linhas = ['Olá! Quero uma cotação destes produtos:', ''];
-      lista.forEach(i => linhas.push(`• ${porSlug[i.s].n}: ${i.q} ${i.u.toLowerCase()}`));
+      const plural = (u, q) => { u = u.toLowerCase(); return q > 1 && u !== 'kg' ? u + 's' : u; };
+      lista.forEach(i => linhas.push(`• ${porSlug[i.s].n}: ${i.q} ${plural(i.u, i.q)}`));
       linhas.push('');
       for (const [k, v] of f.entries()) { if (k !== 'site' && v.toString().trim()) linhas.push(`${k}: ${v.toString().trim()}`); }
       try { sessionStorage.setItem('ra_msg', linhas.join('\n')); } catch (_) {}

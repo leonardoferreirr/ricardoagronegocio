@@ -126,7 +126,7 @@ def lista_meses(ms):
             ant = m
             continue
         a, b = MESES[ini - 1][:3], MESES[ant - 1][:3]
-        blocos.append(a if ini == ant else (f"{a} e {b}" if ant == ini + 1 else f"{a} a {b}"))
+        blocos += [a] if ini == ant else ([a, b] if ant == ini + 1 else [f"{a} a {b}"])
         if m is not None:
             ini = ant = m
     if len(blocos) == 1:
