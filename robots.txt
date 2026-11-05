@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ricardoagronegocio.vercel.app/sitemap.xml
+Sitemap: https://www.ricardoagronegocio.com/sitemap.xml

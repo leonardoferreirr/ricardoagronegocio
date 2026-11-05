@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 RAIZ = Path(__file__).parent
-DOMINIO = "https://ricardoagronegocio.vercel.app"
+DOMINIO = "https://www.ricardoagronegocio.com"
 INDEXAR = False                  # True depois da aprovação e do domínio oficial
 WHATSAPP = "5581989853030"       # comercial do Ricardo (04/11)
 TEL_VER = "+55 81 98985-3030"
